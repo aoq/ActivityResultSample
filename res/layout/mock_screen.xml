@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2013 Yu AOKI -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MockActivity">
+
+    <ListView
+        android:id="@+id/mock_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:entries="@array/sample_entries"/>
+
+</LinearLayout>

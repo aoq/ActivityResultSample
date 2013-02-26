@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2013 Yu AOKI -->
+<resources>
+    <string-array name="sample_entries">
+        <item>@string/entry1</item>
+        <item>@string/entry2</item>
+        <item>@string/entry3</item>
+        <item>@string/entry4</item>
+        <item>@string/entry5</item>
+    </string-array>
+</resources>
