@@ -1,3 +1,7 @@
+/*
+ * Copyright 2013 Yu AOKI
+ */
+
 package com.aokyu.dev.sample.result;
 
 import com.aokyu.dev.sample.result.IntermediateFragment.ResultListener;
